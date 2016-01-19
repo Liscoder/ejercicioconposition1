@@ -1,0 +1,23 @@
+*{margin:0px;
+  padding:0px;
+}
+.caja{
+width:200px;
+height:200px;
+position:absolute;
+}
+.pink{background-color:#ee3e64;
+	left:0;
+	top:0;
+     }
+.blue{background-color:#44accf;
+      right:0;
+       top:0;}
+.green{background-color:#b7d84b;
+	left:0;
+	bottom:0;
+      }
+.yellow{background-color:#FFFF00;
+	 right:0;
+	 bottom:0;
+}
